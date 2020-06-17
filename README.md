@@ -1,5 +1,12 @@
-# Tetris-v1
-A simple NES Tetris clone
+# Tetris-v1<br>
+A simple NES Tetris clone<br><br>
 
-To play online follow this link:
-https://repl.it/@AndrewRubinstei/Tetris-v1
+To play online follow this link:<br>
+https://repl.it/@AndrewRubinstei/Tetris-v1<br>
+
+
+Use the Left, and Right Arrow Keys to move left and right.<br>
+
+Press the up Arrow Key to rotate the piece.<br>
+
+Press the Space Bar to hard drop the piece.
